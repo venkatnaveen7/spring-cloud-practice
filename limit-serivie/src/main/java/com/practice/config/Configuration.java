@@ -11,6 +11,14 @@ public class Configuration {
 	
 	private int maximum;
 	
+	private String serverName;
+	
+	public String getServerName() {
+		return serverName;
+	}
+	public void setServerName(String serverName) {
+		this.serverName = serverName;
+	}
 	public int getMinimum() {
 		return minimum;
 	}

@@ -1,0 +1,1 @@
+insert into exchange_value(id,currency_from,to,conversionRate)  values (1,"AED","INR",20);
