@@ -1,0 +1,13 @@
+{
+ "AWSEBDockerrunVersion":"1",
+  "Image": {
+    "Name": "in28min/hello-world-java:0.0.2.RELEASE",
+	"Update":"true"
+  },
+  "Ports": [
+    {
+      "ContainerPort": "5000"
+    }
+  ]
+}
+          
